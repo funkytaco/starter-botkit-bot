@@ -2,7 +2,7 @@ name: The Bot of Wall Street
 description: ☝️☝️ Check out the README ☝️☝️ in the repo for setup instructions. By the way, this is just the description in the bot.yml file - feel free to change it 😉
 avatar: .beepboop/avatar.png
 config:
-  - name: j4hJnMoqovTF6O1QqDAE2D6FlpngqfpO7Q47OpKY9IuwTcKVyHM7s4H9mPjXk4yX
-    friendly_name: wolfbot
+  - name: BOTKIT_STUDIO_TOKEN
+    friendly_name: Botkit Studio Token
     description: Token associated with your bot in Botkit Studio
 # To learn everything supported in the bot.yml file, visit https://beepboophq.com/docs/article/bot-yml
